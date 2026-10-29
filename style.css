@@ -5,28 +5,34 @@ body {
 .meow {
   color: rgb(216, 152, 96);
   font-weight: bold;
+  border: 2px solid rgb(214, 201, 181);
+  border-radius: 8px;
+    background-color: rgb(255, 244, 227); padding: 20px;
 }
 .meowmeow {
   color: rgb(147, 135, 116);
   font-weight: bold;
+  background-color: rgb(244, 213, 181); padding: 20px;
 }
-
+.meow, .meowmeow {
+ width: 80%;
+  margin: 0 auto 20px;
+}
 h1 {
   color: rgb(255, 255, 255);
   font-weight: bold;
-  text-align: center;
   font-size: 50px;
-}
-
-div {
-  color: rgb(234, 180, 100);
-  font-weight: bold;
+  border: 2px solid rgb(214, 201, 181);
+  text-align: center;
+  width: 50%;
+  border-radius: 8px;
+  margin: 0 auto 20px;
 }
 
 .meowmeowmeow {
   color: rgb(253, 174, 95);
   font-weight: bold;
-  font-size: 30px;
+  font-size: 20px;
 }
 .miau {
   color: rgb(0, 0, 0);
