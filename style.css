@@ -1,0 +1,35 @@
+body {
+	background-color: rgb(245, 229, 214);
+}
+
+.meow {
+  color: rgb(216, 152, 96);
+  font-weight: bold;
+}
+.meowmeow {
+  color: rgb(147, 135, 116);
+  font-weight: bold;
+}
+
+h1 {
+  color: rgb(255, 255, 255);
+  font-weight: bold;
+  text-align: center;
+  font-size: 50px;
+}
+
+div {
+  color: rgb(234, 180, 100);
+  font-weight: bold;
+}
+
+.meowmeowmeow {
+  color: rgb(253, 174, 95);
+  font-weight: bold;
+  font-size: 30px;
+}
+.miau {
+  color: rgb(0, 0, 0);
+  font-weight: bold;
+  font-size: 20px;
+}
